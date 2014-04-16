@@ -10,7 +10,7 @@
     do if false;
 }
 
-(conditon) ? do if true : do if false; //ternary examply
+(conditon) ? do if true : do if false; //ternary example
 
 var gpa = 48;*/
 
